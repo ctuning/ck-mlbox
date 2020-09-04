@@ -1,0 +1,10 @@
+{
+  "data_uoa": "ck-mlbox",
+  "data_uid": "3ad7285f74cd38c1",
+  "data_alias": "ck-mlbox",
+  "data_name": "ck-mlbox",
+  "dict": {
+    "shared": "git",
+    "url": "https://github.com/ctuning/ck-mlbox"
+  }
+}
