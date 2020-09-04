@@ -5,6 +5,11 @@
   "data_name": "ck-mlbox",
   "dict": {
     "shared": "git",
-    "url": "https://github.com/ctuning/ck-mlbox"
+    "url": "https://github.com/ctuning/ck-mlbox",
+    "repo_deps": [
+      {
+        "repo_uoa": "ck-autotuning"
+      }
+    ] 
   }
 }
